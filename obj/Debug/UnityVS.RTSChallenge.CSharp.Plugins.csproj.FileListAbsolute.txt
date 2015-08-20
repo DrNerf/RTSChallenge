@@ -1,0 +1,17 @@
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEditor.dll
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEngine.dll
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEngine.xml
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEditor.xml
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+F:\Projects\RTSChallenge\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+F:\Projects\RTSChallenge\obj\Debug\UnityVS.RTSChallenge.CSharp.Plugins.csprojResolveAssemblyReference.cache
+F:\Projects\RTSChallenge\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\Projects\RTSChallenge\obj\Debug\Assembly-CSharp-firstpass.pdb
